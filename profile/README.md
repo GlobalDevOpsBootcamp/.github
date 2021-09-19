@@ -2,7 +2,7 @@
 
 ![logo](https://globaldevopsbootcamp.com/images/logo.svg)
 
-#What is Global DevOps Bootcamp#
+# What is Global DevOps Bootcamp
 
 Global DevOps Bootcamp is a worldwide community event that has now been organized for three years in a row. 
 Each year, we create a full-day experience around a central theme. The day starts with a keynote (of a famous speaker!), a local keynote (by you!), 
